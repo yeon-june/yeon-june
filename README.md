@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=d8e2d4&fontColor=cabaef&height=300&section=header&text=Yeon's%20Github&fontSize=80)
 
-<div align="center">
-(: Hi :)
+**<div align="center">
+(:  Hi  :)
 </div>
 
 <div align="center">
@@ -10,7 +10,7 @@ Welcome to Yeon's github
 
 <div align="center">
 🍀Have a nice day🍀
-</div>    
+</div>    **
 <br />
       
 
