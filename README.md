@@ -1,10 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=d8e2d4&fontColor=cabaef&height=300&section=header&text=Yeon's%20Github&fontSize=80)
 
-<center>(: Hi :)</center> 
+<div align="center">
+(: Hi :)
+</div>
 
-<center>Welcome to Yeon's github</center> 
+<div align="center">
+Welcome to Yeon's github
+</div>
 
-<center>🍀Have a nice day🍀</center> 
+<div align="center">
+🍀Have a nice day🍀
+</div>
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeon-june&count_bg=%23AABE9A&title_bg=%23CBB1D7&icon=timescale.svg&icon_color=%23E7E7E7&title=hits+&edge_flat=false)](https://hits.seeyoufarm.com)
 
