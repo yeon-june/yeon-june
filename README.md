@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeon-june&count_bg=%23C4B3D3&title_bg=%238FB085&icon=&icon_color=%23749C6E&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 <!--
 **yeon-june/yeon-june** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
