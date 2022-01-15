@@ -11,7 +11,6 @@ Welcome to Yeon's github
 <div align="center">
 🍀Have a nice day🍀
 </div>    
-***
 <br />
       
 
