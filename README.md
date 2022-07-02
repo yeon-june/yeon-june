@@ -23,10 +23,13 @@ Welcome to Yeon's github
 </div>
 
 <div align=center vertical-align=center>
-
+<div display=inline-block>
 [![YeonJune's github stats](https://github-readme-stats.vercel.app/api?username=yeon-june&count_private=true&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-      
+</div>
+<div display=inline-block>
 <img align=center src="http://mazassumnida.wtf/api/v2/generate_badge?boj=aquaira">
+</div>
+      
 </div>
 
 
