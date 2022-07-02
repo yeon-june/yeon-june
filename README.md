@@ -21,8 +21,10 @@ Welcome to Yeon's github
 ![followers](https://img.shields.io/github/followers/yeon-june?style=social)
 
 </div>
+<br/>
+<br/>
 
-<div align="center" margin-top="20px">
+<div align="center">
 
 <div width="100%">
 <img display="inline-block" width="42%" src="https://github-readme-stats.vercel.app/api?username=yeon-june&count_private=true&theme=nightowl&show_icons=true">
