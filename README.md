@@ -28,7 +28,7 @@ Welcome to Yeon's github
 </div>
 
 <div align=center>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=aquaira)](https://solved.ac/aquaira)
+<img align=center src="http://mazassumnida.wtf/api/v2/generate_badge?boj=aquaira">
 </div>
 
 <!--
