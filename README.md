@@ -22,12 +22,12 @@ Welcome to Yeon's github
 
 </div>
 
-<div align=center vertical-align=center>
+<div align="center" vertical-align=center>
 
-[![YeonJune's github stats](https://github-readme-stats.vercel.app/api?username=yeon-june&count_private=true&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=aquaira)](https://solved.ac/aquaira)
-
+<div width="100%">
+<img display="inline-block" width="45%" src="https://github-readme-stats.vercel.app/api?username=yeon-june&count_private=true&theme=nightowl&show_icons=true">
+<img display="inline-block" src="http://mazassumnida.wtf/api/generate_badge?boj=aquaira">
+</div>
       
 </div>
 
