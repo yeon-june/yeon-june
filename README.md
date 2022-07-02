@@ -27,8 +27,8 @@ Welcome to Yeon's github
 <div align="center">
 
 <div width="100%">
-<img display="inline-block" width="42%" src="https://github-readme-stats.vercel.app/api?username=yeon-june&count_private=true&theme=nightowl&show_icons=true">
-<img display="inline-block" src="http://mazassumnida.wtf/api/generate_badge?boj=aquaira">
+<img display="inline-block" width="47%" src="https://github-readme-stats.vercel.app/api?username=yeon-june&count_private=true&theme=nightowl&show_icons=true">
+<img display="inline-block" width="38%" src="http://mazassumnida.wtf/api/generate_badge?boj=aquaira">
 </div>
       
 </div>
