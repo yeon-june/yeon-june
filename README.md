@@ -25,7 +25,12 @@ Welcome to Yeon's github
 
 [![YeonJune's github stats](https://github-readme-stats.vercel.app/api?username=yeon-june&count_private=true&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<div>
+</div>
+
+<div align=center>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=aquaira)](https://solved.ac/aquaira)
+</div>
 
 <!--
 **yeon-june/yeon-june** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
