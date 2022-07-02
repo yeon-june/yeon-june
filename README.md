@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=d8e2d4&fontColor=cabaef&height=300&section=header&text=Yeon's%20Github&fontSize=80)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d8e2d4&fontColor=cabaef&height=300&section=header&text=Yeon's%20Github&fontSize=80">
 
 <div align="center">
 (:  Hi  :)
@@ -22,10 +22,10 @@ Welcome to Yeon's github
 
 </div>
 
-<div align="center" vertical-align=center>
+<div align="center" margin-top="20px">
 
 <div width="100%">
-<img display="inline-block" width="45%" src="https://github-readme-stats.vercel.app/api?username=yeon-june&count_private=true&theme=nightowl&show_icons=true">
+<img display="inline-block" width="42%" src="https://github-readme-stats.vercel.app/api?username=yeon-june&count_private=true&theme=nightowl&show_icons=true">
 <img display="inline-block" src="http://mazassumnida.wtf/api/generate_badge?boj=aquaira">
 </div>
       
